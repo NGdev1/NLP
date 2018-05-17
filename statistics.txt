@@ -1,0 +1,3 @@
+Documents count: 648
+Words count: 6428
+Unique words count: 2112
